@@ -1,0 +1,8 @@
+#This message is sent to the player when they execute the /feed command
+feed-message: "&8[&1FeedMe&8] &2Hunger has been restored!"
+
+#this message is sent to the player if they don't have permission to use the command
+no-permission: "&8[&1FeedMe&8] &4You don't have permission to use this command!"
+
+#Click this link to see the color codes you can use here. https://www.digminecraft.com/lists/color_list_pc.php
+#instead of '§' use &

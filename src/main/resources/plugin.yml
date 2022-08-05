@@ -1,0 +1,14 @@
+name: FeedMe
+version: '${project.version}'
+main: me.pandauprising.feedme.FeedMe
+api-version: 1.19
+authors: [ PandaUprising ]
+description: Use a command instead of food!
+website: https://www.spigotmc.org/members/panda4ever.1570497/
+commands:
+  Feed:
+    description: Use a command to feed yourself instead of food!
+    usage: /<command>
+    aliases:
+      - food
+      - feed
