@@ -15,9 +15,9 @@ public final class FeedMe extends JavaPlugin {
     public void onEnable() {
         // Plugin startup logic
 
-        clogger.sendMessage(ChatColor.GREEN + "-------------------------------");
-        clogger.sendMessage(ChatColor.AQUA + "  Thank you for using FeedMe!");
-        clogger.sendMessage(ChatColor.GREEN + "-------------------------------");
+        clogger.sendMessage(ChatColor.AQUA + "---------------------------------------");
+        clogger.sendMessage(ChatColor.GREEN + "      Thank You For Using FeedMe!");
+        clogger.sendMessage(ChatColor.AQUA + "---------------------------------------");
 
         getConfig().options().copyDefaults();
         saveDefaultConfig();
@@ -30,9 +30,9 @@ public final class FeedMe extends JavaPlugin {
     public void onDisable() {
         // Plugin shutdown logic
 
-        clogger.sendMessage(ChatColor.DARK_RED + "--------------------------------");
-        clogger.sendMessage(ChatColor.GOLD + "            GoodBye!");
-        clogger.sendMessage(ChatColor.DARK_RED + "--------------------------------");
+        clogger.sendMessage(ChatColor.DARK_RED + "---------------------------------------");
+        clogger.sendMessage(ChatColor.GOLD + "                Goodbye!");
+        clogger.sendMessage(ChatColor.DARK_RED + "---------------------------------------");
 
     }
 }
