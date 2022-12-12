@@ -1,5 +1,5 @@
 # FeedMe
-FeedMe plugin for Minecraft servers, currently unreleased
+FeedMe plugin for Minecraft servers
 
 A Simple plugin for Bukkit/Spigot/Paper that refills your hunger bad without having to eat!
 
