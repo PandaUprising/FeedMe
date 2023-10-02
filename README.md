@@ -3,7 +3,7 @@ FeedMe plugin for Minecraft servers
 
 A Simple plugin for Bukkit/Spigot/Paper that refills your hunger bad without having to eat!
 
-Minecraft versions supported: 1.8 - 1.19.4
+Minecraft versions supported: 1.8 - 1.20.2
 
 Commands: /feed/food/eat
 
